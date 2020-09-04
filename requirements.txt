@@ -1,0 +1,12 @@
+coloredlogs==14.0
+deb-parse==0.1.1
+deb-pkg-tools==8.3
+executor==23.1
+fasteners==0.15
+humanfriendly==8.2
+monotonic==1.5
+pathlib==1.0.1
+property-manager==3.0
+pyreadline==2.1
+six==1.15.0
+verboselogs==1.7
